@@ -1,3 +1,2 @@
-# circleci images
+# android-24-ruby image
 
-this is a README
